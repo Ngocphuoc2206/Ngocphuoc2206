@@ -6,7 +6,7 @@
 
 ### 🙋‍♂️ About Me
 
-- 🎓 I’m a final-year student majoring in [Information Technology at UNIVERSITY OF TRANSPORT HOCHIMINHCITY]  
+- 🎓 I’m a final-year student majoring in Information Technology at UNIVERSITY OF TRANSPORT HOCHIMINHCITY 
 - 👨‍💻 I’m deeply interested in Back-End Development using **C#, .NET**, and **SQL**  
 - 🌱 Currently learning more about **Docker**, **REST API**, and **Cloud deployment**  
 - 💬 Ask me about anything related to `.NET`, `SQL`, or backend architecture  
