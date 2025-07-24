@@ -46,7 +46,7 @@ Here are a few projects I've worked on recently:
 
 ### 📫 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/trần-ngọc-phước-1b780630b)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]([www.linkedin.com/in/trần-ngọc-phước-1b780630b](https://www.linkedin.com/in/tr%E1%BA%A7n-ng%E1%BB%8Dc-ph%C6%B0%E1%BB%9Bc-1b780630b/))  
 ✉️ Email: tranngocphuoc.2000vta@gmail.com
 
 ---
