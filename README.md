@@ -11,7 +11,7 @@
 - 🌱 Currently learning more about **Docker**, **REST API**, and **Cloud deployment**  
 - 💬 Ask me about anything related to `.NET`, `SQL`, or backend architecture  
 - ⚡ Fun fact: I love debugging complex issues and optimizing database queries  
-- 📫 Reach me at: **[tranngocphuoc.2000vta@gmail.com]**
+- 📫 Reach me at: **tranngocphuoc.2000vta@gmail.com**
 
 ---
 
@@ -47,7 +47,7 @@ Here are a few projects I've worked on recently:
 ### 📫 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/trần-ngọc-phước-1b780630b)  
-✉️ Email: [tranngocphuoc.2000vta@gmail.com]
+✉️ Email: tranngocphuoc.2000vta@gmail.com
 
 ---
 
