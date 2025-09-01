@@ -33,15 +33,14 @@
 
 Here are a few projects I've worked on recently:
 
-- 🔐 **[Diamond Valuation System](https://github.com/your-username/diamond-valuation)**  
+- **[Diamond Valuation System](https://github.com/Ngocphuoc2206/Diamond-Valuation-System)**  
   > A web application to manage diamond pricing with role-based access using C# .NET MVC, SQL Server, and Bootstrap.
 
-- 📦 **[Inventory Management System](https://github.com/your-username/inventory-management)**  
-  > Desktop app to track stock and suppliers using Windows Forms + ADO.NET + Excel import/export.
+- **[Intern-Management-System](https://github.com/phamthang2409/Intern-management-system)**
 
-- 🌐 **[Simple Blog CMS](https://github.com/your-username/blog-cms-dotnet)**  
-  > Lightweight CMS system built with .NET Core & Entity Framework + Identity authentication.
+- **[Smart-Parking-Management](https://github.com/phamthang2409/smart-parking-management)**
 
+- 
 ---
 
 ### 📫 Contact Me
