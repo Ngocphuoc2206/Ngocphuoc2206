@@ -40,7 +40,6 @@ Here are a few projects I've worked on recently:
 
 - **[Smart-Parking-Management](https://github.com/phamthang2409/smart-parking-management)**
 
-- 
 ---
 
 ### 📫 Contact Me
