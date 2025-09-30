@@ -34,11 +34,17 @@
 Here are a few projects I've worked on recently:
 
 - **[Diamond Valuation System](https://github.com/Ngocphuoc2206/Diamond-Valuation-System)**  
-  > A web application to manage diamond pricing with role-based access using C# .NET MVC, SQL Server, and Bootstrap.
+  🔹 A microservice-based web application for diamond pricing and valuation workflows.  
+  🔹 **Tech stack:** C# .NET Core, SQL Server, Docker, YARP API Gateway, Bootstrap.  
+  🔹 **Key features:** Diamond price estimator, valuation request/response flow, multi-role dashboards (Customer, Staff, Manager, Admin).
 
-- **[Intern-Management-System](https://github.com/phamthang2409/Intern-management-system)**
+- **[Intern Management System](https://github.com/phamthang2409/Intern-management-system)**  
+  🔹 A web platform for tracking interns, tasks, and performance reviews with authentication and reporting.  
+  🔹 **Tech stack:** C# .NET MVC, Entity Framework, SQL Server.  
 
-- **[Smart-Parking-Management](https://github.com/phamthang2409/smart-parking-management)**
+- **[Smart Parking Management](https://github.com/phamthang2409/smart-parking-management)**  
+  🔹 An IoT-integrated solution with license plate recognition for real-time check-in/out.  
+  🔹 **Tech stack:** React, .NET Web API, OpenCV (plate recognition), SQL Server.
 
 ---
 
