@@ -1,5 +1,5 @@
 <!-- Banner hoặc câu chào -->
-<h2 align="center">Hi, I'm TRAN NGOC PHUOC — Web Developer</h2>
+<h2 align="center">Hi, I'm TRAN NGOC PHUOC — Back End Developer</h2>
 <p align="center">🎓 Final-year student | 💻 Passionate about server-side development | 🚀 Ready to build scalable systems</p>
 
 ---
